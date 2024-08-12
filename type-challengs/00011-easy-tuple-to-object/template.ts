@@ -16,3 +16,5 @@ function TupleToObject(array) {
 
 
 // 遍历数组值：T[number]
+type arr1 = [1, '2', 3]
+type a = arr1[number]
